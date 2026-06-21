@@ -71,9 +71,9 @@ export function RootLayout() {
           <div data-jc-id="NS09N5">
             <h4 className="font-bold mb-6 text-white uppercase tracking-widest text-xs" data-jc-id="NS09LH">Collection</h4>
             <ul className="space-y-4 text-white/60 text-sm" data-jc-id="NS08U3">
-              <li data-jc-id="NS086R"><Link to="/shop" className="hover:text-brand-primary transition-colors" data-jc-id="NS086N">All Products</Link></li>
-              <li data-jc-id="NS07F2"><Link to="/collections" className="hover:text-brand-primary transition-colors" data-jc-id="NS07ED">Featured Collections</Link></li>
-              <li data-jc-id="NS06LS"><Link to="/shop" className="hover:text-brand-primary transition-colors" data-jc-id="NS0630">New Arrivals</Link></li>
+              <li data-jc-id="NS086R"><Link to="/" className="hover:text-brand-primary transition-colors" data-jc-id="NS086N">All Products</Link></li>
+              <li data-jc-id="NS07F2"><Link to="/" className="hover:text-brand-primary transition-colors" data-jc-id="NS07ED">Featured Collections</Link></li>
+              <li data-jc-id="NS06LS"><Link to="/" className="hover:text-brand-primary transition-colors" data-jc-id="NS0630">New Arrivals</Link></li>
             </ul>
           </div>
           <div data-jc-id="NS058T">
