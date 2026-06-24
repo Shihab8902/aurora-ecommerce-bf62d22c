@@ -24,7 +24,7 @@ export function CategorySlider({ categories }: CategorySliderProps) {
       <div className="container-custom" data-jc-id="L8W7W3">
         <div className="flex items-center justify-between mb-8" data-jc-id="L8W7AH">
           <div data-jc-id="L8W74J">
-            <span className="text-brand-primary font-bold text-[10px] uppercase tracking-[.3em] mb-2 block" data-jc-id="L8W6KS">Browse Collection</span>
+            <span className="text-brand-primary font-bold text-[10px] uppercase tracking-[.3em] mb-2 block" data-jc-id="L8W6KS"><span>s</span></span>
             <h2 className="text-2xl md:text-3xl font-heading font-bold text-red-600" data-jc-id="L8W5RF">Featured Categories.....</h2>
           </div>
           <div className="flex gap-2" data-jc-id="L8W4ZT">
